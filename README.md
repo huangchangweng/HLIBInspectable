@@ -4,7 +4,7 @@
 ##### 支持使用CocoaPods引入, Podfile文件中添加:
 
 ``` objc
-pod 'HLIBInspectable', '1.0.2'
+pod 'HLIBInspectable', '1.0.0'
 ```
 
 基本使用方法:<p>
