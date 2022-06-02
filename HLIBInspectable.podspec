@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
 
   # git仓库，tag
-  spec.source       = { :git => "https://github.com/huangchangweng/HLIBInspectable.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/huangchangweng/HLIBInspectable.git", :tag => spec.version.to_s }
 
   # 资源路径
   spec.source_files  = "HLIBInspectable/HLIBInspectable/*.{h,m}"
