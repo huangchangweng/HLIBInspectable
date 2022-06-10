@@ -11,6 +11,8 @@ pod 'HLIBInspectable', '1.0.0'
 ```shell
 error: IB Designables: Failed to render and update auto layout status for ViewController (BYZ-38-t0r): Failed to load designables from path (null)
 ```
+# Demonstration
+![image](https://github.com/huangchangweng/HLIBInspectable/blob/main/QQ20220610-111033.gif)
 
 基本使用方法:<p>
 
